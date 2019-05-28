@@ -77,4 +77,4 @@ api.add_resource(DataAll, '/ws/data/all')
 
 @application.route('/')
 def index():
-    return 'Welcome, sample url is - /ws/data/all'
+    return 'Welcome to KB Insurance, sample url is - /ws/data/all'
