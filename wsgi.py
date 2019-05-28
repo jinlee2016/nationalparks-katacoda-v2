@@ -77,4 +77,4 @@ api.add_resource(DataAll, '/ws/data/all')
 
 @application.route('/')
 def index():
-    return 'Welcome to KB Insurance, data url is - /ws/data/all'
+    return 'Welcome OpenShift World'
