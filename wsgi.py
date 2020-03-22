@@ -77,4 +77,4 @@ api.add_resource(DataAll, '/ws/data/all')
 
 @application.route('/')
 def index():
-    return 'WebHook Test!!!'
+    return 'WebHook Test!'
